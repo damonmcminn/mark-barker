@@ -1,0 +1,24 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.8em;
+}
+
+#names {
+  margin: 0.7em;
+}
+
+#names > span {
+  margin: 0 0.2em 0;
+}
+
+#mb {
+  max-height: 90vh;
+}
+
+#names > span > a {
+  color: #333;
+}
